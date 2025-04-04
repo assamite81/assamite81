@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, my name is Michał Leszczyński
+
+🙋‍♂️ About me
+
+I'm from Poland. I'm a developing Manual Tester with ambitions (I would ultimately like to deal with test automation). I am a relatively new Tester, but I fell in love with this job and I want to develop in it. When I stop looking for bugs I spoil my already spoiled dog, play on my console/consoles (PlayStation/Switch) or watch movies and series.
+
 - 🔭 I am currently working on expanding my experience as a Manual Tester and in the future as an Automation Tester
 - 🌱 I’m currently learning test automation
 - 👯 I am looking for cooperation as a Manual Tester
