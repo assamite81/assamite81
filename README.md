@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I am currently working on expanding my experience as a Manual Tester and in the future as an Automation Tester
+- 🌱 I’m currently learning test automation
+- 👯 I am looking for cooperation as a Manual Tester
 <!--
 **assamite81/assamite81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
